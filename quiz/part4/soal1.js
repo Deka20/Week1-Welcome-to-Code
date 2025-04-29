@@ -3,6 +3,6 @@
 // yang kemudian akan ditampilkan di console.
 
 function shoutOut() {
-  return "Halo function!!";
+  return "Halo function! HALO HALO HALO";
 }
 console.log(shoutOut());
